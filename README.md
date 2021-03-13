@@ -2,4 +2,4 @@
 
 Jeg har byttet URL på porteføljen min til:
 
-https://paalss.github.io/portfolio/
+https://paalss-portfolio.herokuapp.com/
